@@ -1,0 +1,12 @@
+.navbar-collapse {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.navbar-collapse .nav-item {
+    margin-left: 15px;
+}
+
+.container {
+    width: 100%;
+}
